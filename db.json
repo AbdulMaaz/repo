@@ -1,8 +1,14 @@
 {
-  "posts": [
+  "employees": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Baber",
+      "rolr" : "Batter"
+    },
+    {
+      "id": 2,
+      "name": "Fakhar",
+      "rolr" : "Batter"
     }
   ]
 }
