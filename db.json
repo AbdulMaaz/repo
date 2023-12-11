@@ -1,14 +1,12 @@
 {
-  "employees": [
-    {
-      "id": 1,
-      "name": "Baber",
-      "rolr" : "Batter"
-    },
-    {
-      "id": 2,
-      "name": "Fakhar",
-      "rolr" : "Batter"
-    }
-  ]
+  "coins": [
+    { "id": 1, "name": "Bitcoin", "symbol": "BTC" },
+    { "id": 2, "name": "Ethereum", "symbol": "ETH" }
+    // Add more coins as needed
+  ],
+  "rates": {
+    "BTC": 45000,
+    "ETH": 3000
+    // Add more rates as needed
+  }
 }
