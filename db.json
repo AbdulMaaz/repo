@@ -1,61 +1,7 @@
 {
   "users" : [
-    { "id" : 1 , "name" : "Abdul Maaz" , "email" : "maaz@gmail.com" , "password" : "password1234" , "wrongAttempts" : "0" , "blockSate" : false ,
-      "blogs"  : [
-        { 
-          "id" : 1 ,
-          "title" : "MUI X v6.18.0 and the latest features before the next major" ,
-          "subtitle" : "New components, polished features, better performance and more." ,
-          "content"  : "Blog posts that grab the audience’s attention are the blog posts that perform. Leverage data from millions of top-performing marketing assets to fine-tune your content to get the attention it deserves." ,
-          "Author"   : "José Freitas"
-        } ,
-        { 
-          "id" : 2 ,
-          "title" : "Evolving MUI's core values and behaviors" ,
-          "subtitle" : "After significant growth, we united as a team to rediscover the values that underpin our shared success." ,
-          "content"  : "Blog posts that grab the audience’s attention are the blog posts that perform. Leverage data from millions of top-performing marketing assets to fine-tune your content to get the attention it deserves." ,
-          "Author"   : "Mikaila Read"
-        }
-      ] , 
-      "coins"  : [
-        { 
-          "name" : "Bitcoin" ,
-          "rate" : 450000 ,
-        } ,
-        { 
-          "name" : "Ethium" ,
-          "rate" : 10000 ,
-        } 
-      ]
-    },
-     { "id" : 2 , "name" : "Yousaf" , "email" : "yousaf@gmail.com" , "password" : "password1234" , "wrongAttempts" : "0" , "blockSate" : false ,
-      "blogs"  : [
-        { 
-          "id" : 1 ,
-          "title" : "MUI X v6.18.0 and the latest features before the next major" ,
-          "subtitle" : "New components, polished features, better performance and more." ,
-          "content"  : "Blog posts that grab the audience’s attention are the blog posts that perform. Leverage data from millions of top-performing marketing assets to fine-tune your content to get the attention it deserves." ,
-          "Author"   : "José Freitas"
-        } ,
-        { 
-          "id" : 2 ,
-          "title" : "Evolving MUI's core values and behaviors" ,
-          "subtitle" : "After significant growth, we united as a team to rediscover the values that underpin our shared success." ,
-          "content"  : "Blog posts that grab the audience’s attention are the blog posts that perform. Leverage data from millions of top-performing marketing assets to fine-tune your content to get the attention it deserves." ,
-          "Author"   : "Mikaila Read"
-        }
-      ] , 
-      "coins"  : [
-        { 
-          "name" : "Bitcoin" ,
-          "rate" : 450000 ,
-        } ,
-        { 
-          "name" : "Ethium" ,
-          "rate" : 10000 ,
-        } 
-      ]
-    }
+    { "id" : 1 , "name" : "Abdul Maaz" , "email" : "maaz@gmail.com" , "password" : "password1234" , "wrongAttempts" : "0" , "blockSate" : false },
+    { "id" : 2 , "name" : "Yousaf" , "email" : "yousaf@gmail.com" , "password" : "password1234" , "wrongAttempts" : "0" , "blockSate" : false }
   ]
 }
     
