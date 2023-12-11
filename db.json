@@ -1,7 +1,7 @@
 {
   "users" : [
-    { "id" : 1 , "name" : "Abdul Maaz" , "email" : "maaz@gmail.com" , "password" : "password1234" , "wrongAttempts" : "0" , "blockSate" : false },
-    { "id" : 2 , "name" : "Yousaf" , "email" : "yousaf@gmail.com" , "password" : "password1234" , "wrongAttempts" : "0" , "blockSate" : false }
+    { "id" : 1 , "name" : "Abdul Maaz" , "email" : "maaz@gmail.com" , "password" : "password1234" , "wrongAttempts" : "0" , "blockSate" : false , "coins" : [ {"id" : 1 , "name" : "Silver" , "rate" : "30000"} , {"id" : 2 , "name" : "Gold" , "rate" : "40000"} ]},
+    { "id" : 2 , "name" : "Yousaf" , "email" : "yousaf@gmail.com" , "password" : "password1234" , "wrongAttempts" : "0" , "blockSate" : false ,"coins" : [ {"id" : 2 , "name" : "Gold" , "rate" : "40000"} , {"id" : 3 , "name" : "Platnium" , "rate" : "50000"} ]}
   ]
 }
     
